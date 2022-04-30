@@ -1,5 +1,5 @@
 <h1 align="center">Anyeong ~(^-^)~, nae ileum-eun Deibideu</h1>
-<h3 align="center">An electrical engineering student</h3>
+<h3 align="center">An electrical engineering student @ UAS Constance</h3>
 
 - 🌱 I’m currently learning **Flask | CoAP | MQTT | REST API**
 
