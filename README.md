@@ -3,13 +3,7 @@
 
 - 🌱 I’m currently learning **Flask | CoAP | MQTT | REST API**
 
-- 📫 Reach me at **david@nguyen.contact**
- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mr-david-nguyen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr-david-nguyen" height="30" width="40" /></a>
-<a href="https://twitter.com/ngu_dave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ngu_dave" height="30" width="40" /></a>
-</p>
+- 📫 Reach me at **david@nguyen.contact** or via <a href="https://twitter.com/ngu_dave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ngu_dave" height="15" width="20" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
