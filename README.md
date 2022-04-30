@@ -2,6 +2,7 @@
 <h3 align="center">An electrical engineering student</h3>
 
 - 🌱 I’m currently learning **Flask | CoAP | MQTT | REST API**
+
 - 📫 Reach me at **david@nguyen.contact**
  
 <h3 align="left">Connect with me:</h3>
