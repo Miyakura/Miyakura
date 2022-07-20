@@ -1,7 +1,7 @@
 <h1 align="center">Anyeong ~(^-^)~, nae ileum-eun Deibideu</h1>
 <h3 align="center">An electrical engineering student @ UAS Constance</h3>
 
-- 🌱 I’m currently learning **Flask | CoAP | MQTT | REST API**
+- 🌱 I’m currently learning **Flask | Django & Vue.js | CoAP | MQTT | REST API**
 
 - 📫 Reach me at **david@nguyen.contact** or via <a href="https://twitter.com/ngu_dave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ngu_dave" height="15" width="20" /></a>
 
