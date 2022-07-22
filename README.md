@@ -1,3 +1,7 @@
+![banana](https://i.imgur.com/sVjWD36.jpg)
+
+
+
 <h1 align="center">Anyeong ~(^-^)~, nae ileum-eun Deibideu</h1>
 <h3 align="center">An electrical engineering student @ UAS Constance</h3>
 
